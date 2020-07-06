@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68034488616",
+    "firebase_url": "https://gossip-24cf4.firebaseio.com",
+    "project_id": "gossip-24cf4",
+    "storage_bucket": "gossip-24cf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68034488616:android:56c4a82edb32de22be081d",
+        "android_client_info": {
+          "package_name": "com.deneme.gossip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68034488616-nv8eq84vvheq6sdm19o50546ridn5a7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcaeeJHiaImrRcDNRFUYHV9waw04nLheE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68034488616-nv8eq84vvheq6sdm19o50546ridn5a7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
